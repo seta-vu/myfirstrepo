@@ -1,0 +1,27 @@
+{
+    "engines": [
+        {
+            "id":  "dbda045e-5521-46f5-aed1-0c8d473b77de",
+            "name": "Bloomberg Speechmatics"  
+        },
+        {
+            "id": "c0e55cde-340b-44d7-bb42-2e0d65e98141",
+            "name": "Speechmatics US RT"
+        },
+        {
+            "id": "transcribe-speechmatics-container-en-us",
+            "name": "Speechmatics iron"
+        },
+        {
+            "id": "1905ec9c-1919-4b82-a203-91b8949aa0d5",
+            "name": "Fingerprint audio RT"
+        },
+        {
+            "id": "71ab1ba9-e0b8-4215-b4f9-0fc1a1d2b44d",
+            "name": "Speechmatis ES RT"
+        }
+
+    ]
+    
+
+}
