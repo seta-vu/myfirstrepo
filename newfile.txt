@@ -2,4 +2,8 @@ dfdf
 dfdsfds
 
 end of file
+<<<<<<< HEAD
+Sep30
+=======
 Sep30_New_Line
+>>>>>>> origin/master
